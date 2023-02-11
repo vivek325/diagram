@@ -1,0 +1,10 @@
+graph TD
+A[Rich in Antioxidants] --> B[Protects against oxidative stress]
+B --> C[Reduces risk of heart disease, cancer, and age-related diseases]
+D[Good Source of Fiber] --> E[Regulates digestive system]
+E --> F[Reduces risk of constipation, diarrhea, and other digestive problems]
+G[Promotes Heart Health] --> H[Contains magnesium and potassium]
+H --> I[Reduces risk of heart disease]
+J[Supports Healthy Vision] --> K[Contains lutein and zeaxanthin]
+K --> L[Protects against age-related macular degeneration]
+M[Boosts Energy Levels] --> N[Contains carbohydrates for energy]
